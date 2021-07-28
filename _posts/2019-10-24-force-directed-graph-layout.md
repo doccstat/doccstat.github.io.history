@@ -15,8 +15,8 @@ math: true
 <script src="//d3js.org/d3-scale-chromatic.v1.min.js"></script>
 <script src="//unpkg.com/topojson@3"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.min.js"></script>
-<script src="/assets/js/2019-10-24-force-directed-graph-layout.js"></script>
-<link rel="stylesheet" href="/assets/css/2019-10-24-force-directed-graph-layout.css">
+<script src="//filedn.com/l6a6JS020EU70J4xNAiVtum/js/2019-10-24-force-directed-graph-layout.js"></script>
+<link rel="stylesheet" href="//filedn.com/l6a6JS020EU70J4xNAiVtum/css/2019-10-24-force-directed-graph-layout.css">
 
 Adding node labels: Show a node label (the node name, i.e., the source) on the top right of each node. If a node is dragged, its label must move with it.
 
