@@ -34,7 +34,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://www.xingchi.li'
 
 github:
-  username: nxli             # change to your github username
+  username: doccstat             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -46,11 +46,11 @@ social:
   email: anthony.li@stat.tamu.edu             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/XingchiLi      # change to your twitter homepage
+    - https://github.com/doccstat       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/naxli
+    - https://www.linkedin.com/in/doccstat
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
