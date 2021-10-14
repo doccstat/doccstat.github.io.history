@@ -1,7 +1,7 @@
 ---
 title: Density of standard normal given sum larger than zero
 author: Anthony Li
-date: 2021-10-14 12:21:00 -0600
+date: 2021-10-13 14:21:00 -0600
 categories: [Statistics]
 tags: [Probability]
 math: true
