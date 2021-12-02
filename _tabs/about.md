@@ -45,6 +45,7 @@ order: 4
 - [Software Development Process][cs6300individual]
 - [Software Development Process Team Project][cs6300team]
 - [Yelp for Chinese][cse6242]
+
 ## Research History
 
 **Topic** Methods in Belief Revision Combined with Crowd Intelligence<br/>
@@ -68,10 +69,6 @@ Unity, Hadoop, Spark, Pig, D3, Agile software development process, test driven d
 
 [PDF version](//filedn.com/l6a6JS020EU70J4xNAiVtum/Resume.pdf)
 
-## Self-hosted services
-
-For myself reference only: [Nextcloud][nextcloud], [JupyterHub][jupyterhub], [RStudio][rstudio]
-
 [cs7643]: https://xingchi.li/DeepLearning/
 [cse6140]: https://xingchi.li/TSP/
 [ahc]: https://xingchi.li/AHC/
@@ -84,6 +81,3 @@ For myself reference only: [Nextcloud][nextcloud], [JupyterHub][jupyterhub], [RS
 [ML4T]: https://xingchi.li/ML4T/
 [PTE]: https://xingchi.li/PTEexperiments/
 [BayesPD]: https://xingchi.li/BayesPD/
-[nextcloud]: https://nextcloud.xingchi.li/
-[jupyterhub]: https://jupyterhub.xingchi.li/
-[rstudio]: https://rstudio.xingchi.li/
